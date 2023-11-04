@@ -1,0 +1,46 @@
+header{
+    border-bottom-left-radius: 0%;
+text-align: center;
+
+}
+nav{
+    text-align: center;
+    
+}
+section{
+    margin-left: 70px;
+    margin-right: 50px;
+    color: green;
+    font-size: 15px;
+    width: 70%;
+}
+article{
+    margin-left: 70px;
+    margin-right: 50px;
+    color:red;
+    font-size: 15px;
+    width: 70%;
+}
+p{
+    margin-left: 70px;
+    margin-right: 50px;
+    color:rgb(10, 10, 10);
+    
+}
+aside{
+    margin-right: 100px;
+    padding-left: 700px;
+    padding-bottom: 50px;
+    
+}
+div{
+    text-align: center;
+}
+#videos>video{
+    text-align: center;
+}
+#a1>h1,p{
+    margin-left: 70px;
+    margin-right: 50px;
+    color: rgb(162, 26, 42);
+}
